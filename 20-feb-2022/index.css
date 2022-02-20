@@ -1,0 +1,29 @@
+.one{
+	text-align: center;
+	background-color: blue;
+	margin: : 750px;
+	padding: : 750px;
+
+
+}
+.two{
+	margin: : 550px;
+	padding: 550px;
+	background-color: #D8BED8;
+	
+	margin-left: 45px;
+
+}
+.three{
+	background-color:lime;
+	height: 480px;
+	width: 380px;
+	margin-left: 65px;
+
+}
+.four{
+	height: 350px;
+	width: 350px;
+	background-color: #FAF0E6;
+	margin-left: 30px;
+}
