@@ -1,29 +1,72 @@
-.one{
-	text-align: center;
-	background-color: blue;
-	margin: : 750px;
-	padding: : 750px;
-
-
+body{
+    background-color: rgb(74, 175, 255);
 }
-.two{
-	margin: : 550px;
-	padding: 550px;
-	background-color: #D8BED8;
-	
-	margin-left: 45px;
-
+.head1{
+    display:flex;
+    justify-content: space-evenly;background-color: rgb(155,255,154);
+    border: 1px solid black;
 }
-.three{
-	background-color:lime;
-	height: 480px;
-	width: 380px;
-	margin-left: 65px;
-
+.head2{background-color: rgb(254,241,2);
+    margin: 20px 150px;
+    display:flex;
+    justify-content: space-evenly;  
+    border: 1px solid black;
 }
-.four{
-	height: 350px;
-	width: 350px;
-	background-color: #FAF0E6;
-	margin-left: 30px;
+.head3{
+    background-color: rgb(254,241,2);
+    margin: 20px 100px;
+    display:flex;
+    justify-content: space-evenly; 
+    border: 1px solid black;
+}
+ 
+.div{
+    padding: 10px 30px;
+    border: 1px solid black;
+}
+.heading{
+    background-color: rgb(254,241,2);
+    padding: 1px 50px;
+    display: inline-block;  
+    border: 1px solid black; 
+}
+.heading3{
+    background-color: rgb(238,238,238);
+    display: inline-block;
+    padding: 60px 35px;
+    border: 1px solid black;
+    font-size: 30px;
+}
+.div_1{
+    background-color: rgb(204,205,254);
+    margin: 20px 40px;
+   text-align: center;
+    border: 1px solid black;
+    padding: 10px 30px;
+}
+.div2{
+    background-color: rgb(155,255,154); 
+}
+.div3{
+    background-color: rgb(240,239,255);   
+}
+.div4{
+    background-color: rgb(254,238,153);
+}
+.div5{
+    background-color: rgb(238,204,255);
+    margin-top: 10px;
+}
+.div6{
+    background-color: rgb(187,238,255);
+    margin-top: 10px;
+}
+.div7{
+background-color: rgb(254,241,2);
+padding: 0px;
+}
+.div8{
+    background-color:rgb(238,255,237) ;
+    margin-top: 10px;
+    padding: 0px;
 }
