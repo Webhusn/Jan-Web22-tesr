@@ -1,18 +1,18 @@
 body{
     background-color: rgb(74, 175, 255);
 }
-.head1{
+.h1{
     display:flex;
     justify-content: space-evenly;background-color: rgb(155,255,154);
     border: 1px solid black;
 }
-.head2{background-color: rgb(254,241,2);
+.h2{background-color: rgb(254,241,2);
     margin: 20px 150px;
     display:flex;
     justify-content: space-evenly;  
     border: 1px solid black;
 }
-.head3{
+.h3{
     background-color: rgb(254,241,2);
     margin: 20px 100px;
     display:flex;
@@ -37,7 +37,7 @@ body{
     border: 1px solid black;
     font-size: 30px;
 }
-.div_1{
+.div1{
     background-color: rgb(204,205,254);
     margin: 20px 40px;
    text-align: center;
